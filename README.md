@@ -1,4 +1,4 @@
-**Digit warrior: beat the machine!**
+# **Digit warrior: beat the machine!**
 
 This project was imagined and implemented by the person with pseudo Xouilledou, Business Administration Bachelor student at the University of St.Gallen.
 
