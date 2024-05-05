@@ -1,6 +1,6 @@
 **Digit warrior: beat the machine!**
 
-This project was imagined and implemented by the person with pseudo Xouilledou, Business Administration student at the University of St.Gallen.
+This project was imagined and implemented by the person with pseudo Xouilledou, Business Administration Bachelor student at the University of St.Gallen.
 
 ## Concept of the project
 This project is a Python project where a small game was implemented. 
